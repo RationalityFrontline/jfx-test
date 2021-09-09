@@ -1,0 +1,7 @@
+.idea
+.gradle
+/build
+/data
+BuildInfo.kt
+Test.kt
+layout_test.fxml
